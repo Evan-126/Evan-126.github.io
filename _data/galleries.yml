@@ -1,0 +1,17 @@
+battlebots:
+  - name: Hawk
+    cover_image: /assets/battlebots/Hawk/Cover_Hawk
+    page: /battlebots/hawk.html
+labs: []
+personal:
+  - name: 4153
+    cover_image: /assets/personal/4153/cover.jpg
+    page: /personal/4153.html
+  - name: clock
+    cover_image: /assets/personal/clock/cover.jpg
+    page: /personal/clock.html
+  - name: flamey
+    cover_image: /assets/personal/flamey/cover.jpg
+    page: /personal/flamey.html
+ut: []
+unm: []
