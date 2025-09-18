@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Evan Long
 head_tags: |
   <link rel="stylesheet" href="/assets/css/basis.css">
@@ -52,4 +52,16 @@ head_tags: |
   <div class="folders-row">
     <div id="other-activities" class="folder-box single">Other Activities</div>
   </div>
+</div>
+
+<!-- Blog posts list -->
+<div id="blog-posts" style="padding: 20px; background-color: #f9f9f9;">
+  <h2>Latest Blog Posts</h2>
+  <ul>
+    {% for post in site.posts %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%Y-%m-%d" }}
+      </li>
+    {% endfor %}
+  </ul>
 </div>
