@@ -24,7 +24,7 @@ plugins:
 ##############################
 text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: tomorrow-night # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : "https://longevan217.com"
+url     : "https://evan-126.github.io"
 baseurl : "/longevan217"
 title   : Evan Long
 description: > # this means to ignore newlines until "Language & timezone"
